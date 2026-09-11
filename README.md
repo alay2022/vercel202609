@@ -82,3 +82,4 @@ function getRandomArray(array) {
   return array[randomIndex];
 }
 ```
+换区域正常刷新出新节点。
