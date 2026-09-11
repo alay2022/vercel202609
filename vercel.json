@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "regions": ["Osaka"],
+  "regions": ["hnd1"],
   "builds": [
     {
       "src": "index.js",
